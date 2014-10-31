@@ -1,0 +1,11 @@
+@(message: String)
+
+@main("Welcome to Play") {
+
+    <p>@message</p>
+    
+    <a href="@controllers.routes.Application.set()">set</a>
+    <a href="@controllers.routes.Application.get()">get</a>
+    <a href="@controllers.routes.Application.delete()">delete</a>
+
+}

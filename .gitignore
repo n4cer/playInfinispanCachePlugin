@@ -1,0 +1,10 @@
+.classpath
+.project
+target
+.settings
+bin
+dist
+.target
+logs
+.idea*
+test

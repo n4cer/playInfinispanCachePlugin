@@ -1,0 +1,5 @@
+PlayFramework 2.3.x Infinispan cache implementation
+---------------------------------------
+
+An Infinispan implementation of CacheAPI for Play 2.3.x.
+
